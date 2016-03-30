@@ -1,0 +1,30 @@
+{
+  "name": "front-common",
+  "version": "1.0.0",
+  "description": "front commons",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hualuomoli/front-common.git"
+  },
+  "keywords": [
+    "angular",
+    "ui-router"
+  ],
+  "author": "hualuomoli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hualuomoli/front-common/issues"
+  },
+  "homepage": "https://github.com/hualuomoli/front-common#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-concat": "^2.6.0",
+    "gulp-jshint": "^2.0.0",
+    "gulp-ng-annotate": "^2.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.5.3"
+  }
+}
